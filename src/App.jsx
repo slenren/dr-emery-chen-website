@@ -32,7 +32,7 @@ export default function App() {
             </div>
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5 text-gray-600" />
-              <span>contact@eliteroboticsurgery.com</span>
+              <span>test@eliteroboticsurgery.com</span>
             </div>
             <div className="flex items-center space-x-3">
               <MapPin className="w-5 h-5 text-gray-600" />
