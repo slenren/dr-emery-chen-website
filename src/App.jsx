@@ -28,7 +28,7 @@ export default function App() {
           <div className="space-y-4">
             <div className="flex items-center space-x-3">
               <Phone className="w-5 h-5 text-gray-600" />
-              <span>(123) 456-7890</span>
+              <span>(661) 488-7048</span>
             </div>
             <div className="flex items-center space-x-3">
               <Mail className="w-5 h-5 text-gray-600" />
@@ -36,7 +36,7 @@ export default function App() {
             </div>
             <div className="flex items-center space-x-3">
               <MapPin className="w-5 h-5 text-gray-600" />
-              <span>Palmdale, CA</span>
+              <span>38920 Trade Center Dr Suite A, Palmdale, CA 93551</span>
             </div>
             <button className="mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700">
               Request an Appointment
